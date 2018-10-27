@@ -1,0 +1,6 @@
+c:\users\alroc\onedrive\documents\visual studio 2015\Projects\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe.config
+c:\users\alroc\onedrive\documents\visual studio 2015\Projects\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe
+c:\users\alroc\onedrive\documents\visual studio 2015\Projects\ReadExcel\ReadExcel\bin\Debug\ReadExcel.pdb
+c:\users\alroc\onedrive\documents\visual studio 2015\Projects\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csprojResolveAssemblyReference.cache
+c:\users\alroc\onedrive\documents\visual studio 2015\Projects\ReadExcel\ReadExcel\obj\Debug\ReadExcel.exe
+c:\users\alroc\onedrive\documents\visual studio 2015\Projects\ReadExcel\ReadExcel\obj\Debug\ReadExcel.pdb
